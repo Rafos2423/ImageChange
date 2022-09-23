@@ -1,2 +1,2 @@
 # ImageChange
-![image](primer.jpg)
+![image](primer.png)
